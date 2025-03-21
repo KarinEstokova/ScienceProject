@@ -1,0 +1,6 @@
+.DS_store
+bin/*
+obj/*
+Projekt.cbp
+Projekt.depend
+Projekt.layout
